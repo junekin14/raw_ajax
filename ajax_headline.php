@@ -26,7 +26,7 @@ if($myTest == "yes")
     $aHeadline[5] = "Blind woman gets new kidney from dad she hasn't seen in years";
     $aHeadline[6] = "Infertility unlikely to be passed on";
     $aHeadline[7] = "Plane Too Close to Ground, Crash Probe Told";
-    $aHeadline[8] = "Nation Split on Bush as Uniter or Divider";
+    $aHeadline[8] = "Nation Split on Trump as Uniter or Divider";
     $aHeadline[9] = "Killer sentenced to die for second time in 10 years";
 	srand(time());
 	$random = (rand()%9);
